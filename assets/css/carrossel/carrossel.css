@@ -26,11 +26,13 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 0.5em;
+    
 }
 
 .card__botoes {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .botoes {
